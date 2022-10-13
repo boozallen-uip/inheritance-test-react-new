@@ -1,1 +1,1 @@
-# inheritance-test-base
+# inheritance-test-react
